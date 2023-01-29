@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/f9/a5/b3/f9a5b39c1486bc0c45d9c177630a2468.gif)](https://rishavchanda.io)
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving" width="30" height="30"/>, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
@@ -41,6 +42,6 @@
 <p align="left">
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en" alt="adrianmiftahulh" />
 &nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" />
-<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
+<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
 </p>
 
