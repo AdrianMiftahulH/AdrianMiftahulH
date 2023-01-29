@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/648651.gif)
+![MasterHead](https://wallpaperaccess.com/full/2641049.gif)
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving" width="30" height="30"/>, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
