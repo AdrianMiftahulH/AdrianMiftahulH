@@ -8,7 +8,7 @@
 <a href="https://dribbble.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adrianmiftahul" height="25" width="35" /></a>
 </p>
 <br>
-<img align="right" src="https://woodsandoutofsight.files.wordpress.com/2016/03/pixel-nate-animation.gif?w=379" alt="typescript" width="400"/>
+<img align="right" src="https://woodsandoutofsight.files.wordpress.com/2016/03/pixel-nate-animation.gif?w=379" alt="typescript" width="300"/>
 
 - 📚 I’m currently learning **React.Js, Next.Js, Node.Js and Laravel 9**
 
@@ -39,8 +39,8 @@
 
 <h2 align="left">Github Stats : </h2>
 <p align="left">
-<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en" alt="adrianmiftahulh" />
-&nbsp;<img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" /> <br>
-<img align="center" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
+<img align="center" width="250" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en" alt="adrianmiftahulh" />
+&nbsp;<img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" /> <br>
+<img align="center" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
 </p>
 
