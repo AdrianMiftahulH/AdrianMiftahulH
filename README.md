@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" alt="waving" width="30" height="30"/>, I'm Adrian</h1>
+<h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving" width="30" height="30"/>, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 <a href="https://dribbble.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adrianmiftahul" height="25" width="35" /></a>
 </p>
 <br>
-
+<img src="https://woodsandoutofsight.files.wordpress.com/2016/03/pixel-nate-animation.gif?w=379" alt="typescript" width="400"/>
 - 📚 I’m currently learning **React.Js, Next.Js, Node.Js and Laravel 9**
 
 - 📧 How to reach me **adrianmiftahul@gmail.com** 
@@ -42,4 +42,3 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" /> <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
 </p>
-
