@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/adrian-miftahul-haq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-miftahul-haq" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18210501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18210501" height="30" width="40" /></a>
+<a href="https://instagram.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrianmiftahul" height="30" width="40" /></a>
+<a href="https://dribbble.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adrianmiftahul" height="30" width="40" /></a>
+</p>
 - 📖 I’m currently learning **React.Js, Next.Js, Node.Js and Laravel 9**
 
 - 📧 How to reach me **adrianmiftahul@gmail.com** 
 
 
-<h2 align="left">Media Social : </h2>
-<p align="left">
-<a href="https://instagram.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrianmiftahul" height="30" width="40" /></a>
-<a href="https://dribbble.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adrianmiftahul" height="30" width="40" /></a>
-</p>
-
 <h2 align="left">Languages and Tools : </h2>
-<span align="center"> 
+<p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a>  
@@ -32,7 +32,7 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>  
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
-</span>
+</p>
 
 <h2 align="left">Github Stats : </h2>
 <p align="left">
@@ -40,3 +40,4 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" /> <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
 </p>
+
