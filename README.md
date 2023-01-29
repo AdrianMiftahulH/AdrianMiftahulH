@@ -39,8 +39,8 @@
 
 <h2 align="left">Github Stats : </h2>
 <p align="left">
-<img align="center" width="250" height="100" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en" alt="adrianmiftahulh" />
-&nbsp;<img align="center" width="250" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" /> <br>
-<img align="center" width="250" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
+<img align="center" width="250" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en" alt="adrianmiftahulh" />
+&nbsp;<img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" /> <br>
+<img align="center" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
 </p>
 
