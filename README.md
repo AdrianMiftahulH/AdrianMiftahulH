@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/0c/09/5b/0c095b60ffd0c8e9f79e79f310fb68ad.gif)](https://media.giphy.com/media/RlHpuVwtbvdIBXzm2z/giphy.gif)
+![MasterHead](https://wallpaperaccess.com/full/648651.gif)
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving" width="30" height="30"/>, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
@@ -40,8 +40,8 @@
 
 <h2 align="left">Github Stats : </h2>
 <p align="left">
-<img align="center" width="330" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en" alt="adrianmiftahulh" />
-&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" />
+<img align="center" width="340" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en" alt="adrianmiftahulh" />
+&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact" alt="adrianmiftahulh" /><br>
 <img align="center" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmiftahulh&" alt="adrianmiftahulh" />
 </p>
 
