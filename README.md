@@ -13,6 +13,10 @@
 
 - 📧 How to reach me **adrianmiftahul@gmail.com** 
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
+</p>
 
 <h2 align="left">Languages and Tools : </h2>
 
@@ -59,11 +63,6 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="figma" width="30" height="30"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="git" width="30" height="30"/> </a>  
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
-</p>
-  
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdrianMiftahulH&bg_color=07020100&color=575585&line=c1a9c9&point=575585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
