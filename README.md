@@ -3,10 +3,10 @@
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/adrian-miftahul-haq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-miftahul-haq" height="25" width="35" /></a>
-<a href="https://stackoverflow.com/users/18210501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18210501" height="25" width="35" /></a>
-<a href="https://instagram.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrianmiftahul" height="25" width="35" /></a>
-<a href="https://dribbble.com/adrianmiftahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adrianmiftahul" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/adrian-miftahul-haq" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-512.png" alt="adrian-miftahul-haq" height="25"/></a>
+<a href="https://stackoverflow.com/users/18210501" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/StackOverflow-512.png" alt="18210501" height="25"/></a>
+<a href="https://instagram.com/adrianmiftahul" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Instagram-512.png" alt="adrianmiftahul" height="25" /></a>
+<a href="https://dribbble.com/adrianmiftahul" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-icon-pack-by-citni/48/Dribbble.png" alt="adrianmiftahul" height="25" /></a>
 </p>
 
 - 📚 I’m currently learning **React.Js, Next.Js, Node.Js and Laravel 9**
