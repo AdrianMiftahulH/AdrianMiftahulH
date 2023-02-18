@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/AdrianMiftahulH/AdrianMiftahulH/blob/main/ezgif.com-gif-maker%20(1).gif)
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving" width="30" height="30"/>, I'm Adrian</h1>
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
+<h3 align="center">A passionate Junior developer from Indonesian</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/adrian-miftahul-haq" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-512.png" alt="adrian-miftahul-haq" height="25"/></a>
@@ -9,7 +9,7 @@
 <a href="https://dribbble.com/adrianmiftahul" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-icon-pack-by-citni/48/Dribbble.png" alt="adrianmiftahul" height="25" /></a>
 </p>
 
-- 📚 I’m currently learning **React.Js, Next.Js, Node.Js and Laravel 9**
+- 📚 I’m currently learning **React.Js, Next.Js, Node.Js, Express.Js**
 
 - 📧 How to reach me **adrianmiftahul@gmail.com** 
 
