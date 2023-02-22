@@ -13,7 +13,7 @@
 
 - 📧 How to reach me **adrianmiftahul@gmail.com** 
 
-- ☕ If you want you want to buy me coffee now [BuyMeCoffee](https://www.buymeacoffee.com/adrianmiftahul) || [Saweria](https://saweria.co/AdrianMiftahulH)
+- ☕ If you want you want to buy me coffee now [BuyMeCoffee](https://www.buymeacoffee.com/adrianmiftahul) || [Saweria](https://saweria.co/AdrianMiftahulH) || [SocialBuzz](https://sociabuzz.com/adrianmiftahul/support)
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
