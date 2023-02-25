@@ -13,23 +13,6 @@
 
 - 📧 How to reach me **adrianmiftahul@gmail.com** 
 
-- ☕ If you want you want to buy me coffee now 
-<p>
-    <span>
-        <a href="https://www.buymeacoffee.com/adrianmiftahul" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 115px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-    </span>    
-    <span>
-    <a href="https://saweria.co/AdrianMiftahulH" target="_blank"><img src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png?w=893" alt="Saweria" style="height: 25px !important;width: 115px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-    </span>
-    <span>
-        <a href="https://sociabuzz.com/adrianmiftahul/support" target="_blank" style="background-color: white !important;"><img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" alt="Saweria" style="height: 15px !important;width: 90px  !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-    </span>
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
-</p>
 
 <h2 align="left">Languages and Tools : </h2>
 
