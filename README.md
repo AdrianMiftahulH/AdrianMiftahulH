@@ -13,6 +13,10 @@
 
 - 📧 How to reach me **adrianmiftahul@gmail.com** 
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmiftahulh&show_icons=true&locale=en&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmiftahulh&show_icons=true&locale=en&layout=compact&title_color=565486&bg_color=07020100&hide_border=true&text_color=c1aac7" alt="adrianmiftahulh" />
+</p>
 
 <h2 align="left">Languages and Tools : </h2>
 
