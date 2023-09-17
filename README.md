@@ -64,5 +64,3 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="git" width="30" height="30"/> </a>  
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
 </p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdrianMiftahulH&bg_color=07020100&color=575585&line=c1a9c9&point=575585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
