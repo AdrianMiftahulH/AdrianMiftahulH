@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/AdrianMiftahulH/AdrianMiftahulH/blob/main/ezgif.com-gif-maker%20(1).gif)
-<h1 align="center">Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" alt="waving" width="30" height="30"/>, I'm Adrian</h1>
-<h3 align="center">A passionate Junior developer from Indonesian</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Adrian%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<h3 align="center">A passionate Junior developer from Indonesian</h3>
 <p align="center">
 <a href="https://linkedin.com/in/adrian-miftahul-haq" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-512.png" alt="adrian-miftahul-haq" height="25"/></a>
 <a href="https://stackoverflow.com/users/18210501" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/StackOverflow-512.png" alt="18210501" height="25"/></a>
